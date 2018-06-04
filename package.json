@@ -1,0 +1,21 @@
+{
+  "name": "asynccobiss",
+  "version": "1.0.0",
+  "description": "Asinhrono pridobivanje Cobiss podatkov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alen Balaž",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cluster": "^0.7.7",
+    "googleapis": "^25.0.0",
+    "nightmare": "^2.10.0",
+    "node-datetime": "^2.0.6",
+    "request": "^2.83.0",
+    "urlencode": "^1.1.0",
+    "vo": "^4.0.2"
+  }
+}
