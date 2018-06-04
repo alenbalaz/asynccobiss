@@ -11,10 +11,12 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "cluster": "^0.7.7",
+    "electron": "^2.0.2",
     "googleapis": "^25.0.0",
+    "hoek": "^5.0.3",
     "nightmare": "^2.10.0",
     "node-datetime": "^2.0.6",
-    "request": "^2.83.0",
+    "request": "^2.87.0",
     "urlencode": "^1.1.0",
     "vo": "^4.0.2"
   }
